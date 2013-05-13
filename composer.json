@@ -1,6 +1,6 @@
 {
     "require": {
-        "silex/silex": "dev-master",
+        "silex/silex": "~1.0",
         "twig/twig": ">=1.8,<2.0-dev"
     },
     "minimum-stability": "dev"
